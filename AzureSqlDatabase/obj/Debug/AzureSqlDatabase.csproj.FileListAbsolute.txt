@@ -1,0 +1,16 @@
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\AzureSqlDatabase.exe.config
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\AzureSqlDatabase.exe
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\AzureSqlDatabase.pdb
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\System.Data.SqlClient.dll
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\bin\Debug\System.Data.SqlClient.xml
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\obj\Debug\AzureSqlDatabase.csprojAssemblyReference.cache
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\obj\Debug\AzureSqlDatabase.csproj.CopyComplete
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\obj\Debug\AzureSqlDatabase.exe
+C:\Users\tushar\source\repos\AzureSqlDatabase\AzureSqlDatabase\obj\Debug\AzureSqlDatabase.pdb
